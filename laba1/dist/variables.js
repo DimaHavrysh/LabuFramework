@@ -1,0 +1,13 @@
+"use strict";
+let myString = "Hello my name Misha!";
+let myNumber = 42;
+let myBoolean = true;
+let myAny = "Можна бути будь-яким типом";
+console.log("Рядок:", myString);
+console.log("Число:", myNumber);
+console.log("Булевий:", myBoolean);
+console.log("Any:", myAny);
+let stringArray = ["перший", "Другий", "Третій"];
+let numberArray = [1, 2, 3, 4, 5];
+console.log("Масив рядків:", stringArray);
+console.log("Масив чисел:", numberArray);
