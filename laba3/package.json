@@ -14,4 +14,9 @@
     "webpack-cli": "^5.1.4"
   },
   "description": ""
+  "scripts": {
+  "build": "webpack",
+  "start": "webpack serve --open"
+}
+
 }
